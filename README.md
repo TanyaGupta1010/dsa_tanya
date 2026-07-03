@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0090-subsets-ii) |
