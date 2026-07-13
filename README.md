@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
 | [0784-letter-case-permutation](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1079-letter-tile-possibilities) |
 ## Greedy
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0037-sudoku-solver) |
+| [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0496-next-greater-element-i) |
 | [1079-letter-tile-possibilities](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1079-letter-tile-possibilities) |
 ## Counting
@@ -127,9 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0901-online-stock-span) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
