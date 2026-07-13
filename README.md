@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0503-next-greater-element-ii) |
+| [0648-replace-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0907-sum-of-subarray-minimums) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0648-replace-words) |
 | [0784-letter-case-permutation](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1079-letter-tile-possibilities) |
 ## Greedy
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0037-sudoku-solver) |
 | [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0496-next-greater-element-i) |
+| [0648-replace-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0648-replace-words) |
 | [1079-letter-tile-possibilities](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1079-letter-tile-possibilities) |
 ## Counting
 |  |
@@ -139,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
