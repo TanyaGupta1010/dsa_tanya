@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0784-letter-case-permutation) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0131-palindrome-partitioning) |
 | [0907-sum-of-subarray-minimums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0907-sum-of-subarray-minimums) |
@@ -190,13 +192,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
