@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0131-palindrome-partitioning) |
