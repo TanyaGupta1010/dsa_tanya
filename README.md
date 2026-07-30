@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0648-replace-words) |
 | [0784-letter-case-permutation](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1079-letter-tile-possibilities) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3658-gcd-of-odd-and-even-sums) |
