@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0695-max-area-of-island) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0543-diameter-of-binary-tree) |
 ## Recursion
