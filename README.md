@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0039-combination-sum) |
@@ -36,8 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0058-length-of-last-word) |
@@ -56,15 +56,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0047-permutations-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0242-valid-anagram) |
@@ -76,8 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0037-sudoku-solver) |
@@ -99,8 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0797-all-paths-from-source-to-target) |
 | [1079-letter-tile-possibilities](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1079-letter-tile-possibilities) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0098-validate-binary-search-tree) |
@@ -120,23 +120,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3310-remove-methods-from-project) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0695-max-area-of-island) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0784-letter-case-permutation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
@@ -145,8 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0907-sum-of-subarray-minimums) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0037-sudoku-solver) |
@@ -164,13 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3731-find-missing-elements) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1079-letter-tile-possibilities](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1079-letter-tile-possibilities) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0496-next-greater-element-i) |
@@ -181,8 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0503-next-greater-element-ii) |
@@ -192,23 +192,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0901-online-stock-span) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0901-online-stock-span](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0901-online-stock-span) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0648-replace-words) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0101-symmetric-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -224,14 +224,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0695-max-area-of-island) |
 | [2685-count-the-number-of-complete-components](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2685-count-the-number-of-complete-components) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
@@ -244,25 +244,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
@@ -279,8 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0098-validate-binary-search-tree) |
@@ -288,8 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
@@ -306,47 +306,47 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1302-deepest-leaves-sum) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0797-all-paths-from-source-to-target) |
 | [2685-count-the-number-of-complete-components](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3310-remove-methods-from-project) |
 ## DP on Trees
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Directed Acyclic Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Lifting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
