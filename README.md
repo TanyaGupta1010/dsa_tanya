@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0199-binary-tree-right-side-view) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0199-binary-tree-right-side-view) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0199-binary-tree-right-side-view) |
