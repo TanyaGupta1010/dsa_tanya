@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3536-maximum-product-of-two-digits) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0797-all-paths-from-source-to-target) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1302-deepest-leaves-sum) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0496-next-greater-element-i) |
 | [0648-replace-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0648-replace-words) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1079-letter-tile-possibilities](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1079-letter-tile-possibilities) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0797-all-paths-from-source-to-target) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1302-deepest-leaves-sum) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0617-merge-two-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1302-deepest-leaves-sum) |
@@ -327,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0617-merge-two-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1302-deepest-leaves-sum) |
