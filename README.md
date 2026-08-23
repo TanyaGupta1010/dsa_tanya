@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0078-subsets](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0784-letter-case-permutation](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0784-letter-case-permutation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0617-merge-two-binary-trees) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0099-recover-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
 ## Binary Tree
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0617-merge-two-binary-trees) |
