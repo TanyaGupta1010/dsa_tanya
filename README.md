@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
+| [0700-search-in-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
