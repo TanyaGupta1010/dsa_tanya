@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1302-deepest-leaves-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3310-remove-methods-from-project) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1302-deepest-leaves-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1302-deepest-leaves-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -435,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
