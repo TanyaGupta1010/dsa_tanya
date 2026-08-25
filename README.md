@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2104-sum-of-subarray-ranges) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1302-deepest-leaves-sum) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1302-deepest-leaves-sum) |
