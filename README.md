@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0242-valid-anagram) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Iterator
@@ -508,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0056-merge-intervals/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
