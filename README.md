@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0876-middle-of-the-linked-list/) | Easy |
