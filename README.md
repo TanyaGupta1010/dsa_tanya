@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0037-sudoku-solver) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0011-container-with-most-water/) | Medium |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
