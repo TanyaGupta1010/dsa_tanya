@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0056-merge-intervals/) | Medium |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,4 +548,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
