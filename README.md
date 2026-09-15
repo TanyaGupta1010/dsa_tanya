@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0056-merge-intervals/) | Medium |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0093-restore-ip-addresses) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0056-merge-intervals/) | Medium |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0138-copy-list-with-random-pointer/) | Medium |
