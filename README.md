@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0835-image-overlap/) | Medium |
+| [0867-transpose-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0994-rotting-oranges/) | Medium |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0835-image-overlap/) | Medium |
+| [0867-transpose-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0994-rotting-oranges/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0867-transpose-matrix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 | Problem Name | Difficulty |
