@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0169-majority-element](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0056-merge-intervals/) | Medium |
+| [0169-majority-element](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0242-valid-anagram) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0242-valid-anagram) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0169-majority-element/) | Easy |
 | [1079-letter-tile-possibilities](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1079-letter-tile-possibilities) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0169-majority-element](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -564,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
