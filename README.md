@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0344-reverse-string](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0648-replace-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0648-replace-words) |
 | [0784-letter-case-permutation](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0784-letter-case-permutation) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
