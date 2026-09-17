@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0058-length-of-last-word) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -576,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0169-majority-element/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
