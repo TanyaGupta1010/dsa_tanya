@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0739-daily-temperatures) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0901-online-stock-span](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0901-online-stock-span) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -598,4 +600,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
