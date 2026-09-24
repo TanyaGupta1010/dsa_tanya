@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
