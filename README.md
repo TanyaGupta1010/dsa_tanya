@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0867-transpose-matrix/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
