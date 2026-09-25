@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0208-implement-trie-prefix-tree) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0344-reverse-string/) | Easy |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0876-middle-of-the-linked-list/) | Easy |
