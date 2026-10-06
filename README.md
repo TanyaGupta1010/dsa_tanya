@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0258-add-digits/) | Easy |
+| [0326-power-of-three](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0326-power-of-three/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0326-power-of-three/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
