@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0057-insert-interval/) | Medium |
+| [0066-plus-one](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0079-word-search) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0066-plus-one/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
