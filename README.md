@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0258-add-digits/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0867-transpose-matrix/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3658-gcd-of-odd-and-even-sums) |
