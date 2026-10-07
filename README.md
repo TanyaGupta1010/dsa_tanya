@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0231-power-of-two/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0258-add-digits/) | Easy |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1952-three-divisors/) | Easy |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0204-count-primes/) | Medium |
 | [1952-three-divisors](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1952-three-divisors/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
@@ -697,9 +701,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0204-count-primes/) | Medium |
 | [1952-three-divisors](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1952-three-divisors/) | Easy |
 ## Least Common Multiple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
