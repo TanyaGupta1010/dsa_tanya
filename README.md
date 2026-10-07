@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0326-power-of-three/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0400-nth-digit](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0400-nth-digit/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
+| [0400-nth-digit](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0400-nth-digit/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
