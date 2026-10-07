@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0043-multiply-strings](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0079-word-search) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0009-palindrome-number/) | Easy |
+| [0043-multiply-strings](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0066-plus-one/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0043-multiply-strings/) | Medium |
 | [0258-add-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0867-transpose-matrix/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
