@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0066-plus-one/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0231-power-of-two/) | Easy |
