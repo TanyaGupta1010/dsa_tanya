@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0648-replace-words) |
 | [0695-max-area-of-island](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0835-image-overlap/) | Medium |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0704-binary-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
