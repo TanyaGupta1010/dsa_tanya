@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0066-plus-one/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0234-palindrome-linked-list/) | Easy |
