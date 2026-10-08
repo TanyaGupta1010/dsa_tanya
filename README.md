@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
+| [0509-fibonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0326-power-of-three/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0400-nth-digit](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0400-nth-digit/) | Medium |
+| [0509-fibonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -565,11 +567,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0326-power-of-three/) | Easy |
+| [0509-fibonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0241-different-ways-to-add-parentheses) |
+| [0509-fibonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
