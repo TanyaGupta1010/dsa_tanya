@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> output;
         vector<vector<int>> ans;
+        vector<int> output;
         solve(nums, ans, output, 0);
         return ans;
     }
