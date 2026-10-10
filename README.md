@@ -700,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
