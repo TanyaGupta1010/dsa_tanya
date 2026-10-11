@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2104-sum-of-subarray-ranges) |
 | [2326-spiral-matrix-iv](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0204-count-primes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0204-count-primes/) | Medium |
 | [1952-three-divisors](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1952-three-divisors/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
 | Problem Name | Difficulty |
