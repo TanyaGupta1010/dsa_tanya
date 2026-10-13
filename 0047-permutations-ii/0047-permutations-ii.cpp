@@ -15,7 +15,7 @@ public:
         }
         for(int i = 0; i < nums.size(); i++){
             if(visited[i]) continue;
-            if(i > 0 && nums[i] == nums[i-1] && !visited[i - 1]) continue;
+            if(i > 0 && nums[i] == nums[i - 1] && !visited[i - 1]) continue;
             visited[i] = true;
             output.push_back(nums[i]);
             solve(nums, ans, output, visited);
