@@ -7,7 +7,7 @@ public:
         return ans;
     }
     void solve(int n, vector<string>& ans, string& output, int open, int close){
-        if(output.size() == 2*n){
+        if(output.size() == 2 * n){
             ans.push_back(output);
             return;
         }
