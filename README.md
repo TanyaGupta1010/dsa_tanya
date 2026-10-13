@@ -773,4 +773,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0365-water-and-jug-problem/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
