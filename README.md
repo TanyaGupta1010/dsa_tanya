@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3904-smallest-stable-index-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
