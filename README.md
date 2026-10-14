@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0200-number-of-islands) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0099-recover-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
