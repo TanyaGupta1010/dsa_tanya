@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0037-sudoku-solver) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0035-search-insert-position/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0096-unique-binary-search-trees) |
