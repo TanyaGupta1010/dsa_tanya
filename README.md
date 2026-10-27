@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
+| [0463-island-perimeter](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0365-water-and-jug-problem](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0463-island-perimeter](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0200-number-of-islands) |
+| [0463-island-perimeter](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0463-island-perimeter/) | Easy |
 | [0695-max-area-of-island](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0835-image-overlap](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0835-image-overlap/) | Medium |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0365-water-and-jug-problem](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0463-island-perimeter](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0463-island-perimeter/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
