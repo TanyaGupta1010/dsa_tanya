@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1154-day-of-the-year/) | Easy |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Linked List
@@ -776,11 +780,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -887,4 +893,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0692-top-k-frequent-words/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
