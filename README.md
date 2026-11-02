@@ -389,12 +389,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Trie
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0704-binary-search](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -783,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quickselect
