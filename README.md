@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0414-third-maximum-number/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0463-island-perimeter/) | Easy |
 | [0496-next-greater-element-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0503-next-greater-element-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0414-third-maximum-number/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0400-nth-digit](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0400-nth-digit/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
