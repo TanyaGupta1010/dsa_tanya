@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3334-find-the-maximum-factor-score-of-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3334-find-the-maximum-factor-score-of-array/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -726,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -791,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
