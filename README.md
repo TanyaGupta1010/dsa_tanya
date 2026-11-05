@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1539-kth-missing-positive-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
