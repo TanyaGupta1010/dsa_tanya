@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
