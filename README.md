@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1539-kth-missing-positive-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1952-three-divisors](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Quicksort
