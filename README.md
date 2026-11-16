@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1154-day-of-the-year](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1154-day-of-the-year/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
