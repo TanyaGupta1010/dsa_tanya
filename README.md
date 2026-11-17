@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1154-day-of-the-year/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 | Problem Name | Difficulty |
