@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/2104-sum-of-subarray-ranges) |
 | [2326-spiral-matrix-iv](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanyaGupta1010/dsa_tanya/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TanyaGupta1010/dsa_tanya/tree/master/3517-smallest-palindromic-rearrangement-i) |
